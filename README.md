@@ -15,14 +15,15 @@ array and, after shuffling, display the last letter from the array. Have it also
 If the first letter in the array is a vowel, have it display a message.
 
 To shuffle a collection, you can use the shuffle method of the Collections class. Collections Class documentation
-● Generate and return an array with 10 random numbers between 55-100.
 
+● Generate and return an array with 10 random numbers between 55-100.
 To get a random integer, you can use the nextInt method of the Random class. Random Class documentation
+
 ● Generate and return an array with 10 random numbers between 55-100 and have it be sorted (showing the 
 smallest number in the beginning). Display all the numbers in the array. Next, display the minimum value in the 
 array as well as the maximum value.
-
 To sort a collection, you can use the sort method of the Collections class.
+
 ● Create a random string that is 5 characters long.
 
 ● Generate an array with 10 random strings that are each 5 characters long
